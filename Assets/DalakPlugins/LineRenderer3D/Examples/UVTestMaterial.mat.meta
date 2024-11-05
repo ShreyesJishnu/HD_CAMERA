@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f1f88204fc5ec4533aaa414842e8267b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207731
+  packageName: Line Renderer 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/DalakPlugins/LineRenderer3D/Examples/UVTestMaterial.mat
+  uploadId: 532954

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 420d4407977c4948b1c254c8e314654e
+timeCreated: 1623095416
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207731
+  packageName: Line Renderer 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/DalakPlugins/LineRenderer3D/Examples/Example1/AutoUpdateMono.cs
+  uploadId: 532954

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f0438a58fc6b36d488e154f2f321e957
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207731
+  packageName: Line Renderer 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/DalakPlugins/LineRenderer3D/Examples/HDRP_Settings.unitypackage
+  uploadId: 532954

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e3d263b677b9d594094df685ab9bf87d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207731
+  packageName: Line Renderer 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/DalakPlugins/LineRenderer3D/Examples/URP_Settings.unitypackage
+  uploadId: 532954

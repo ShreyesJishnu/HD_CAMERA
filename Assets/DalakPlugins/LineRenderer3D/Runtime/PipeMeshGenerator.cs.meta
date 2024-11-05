@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: aae7d04a28714276879d57716a309ef2
+timeCreated: 1623089498
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207731
+  packageName: Line Renderer 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/DalakPlugins/LineRenderer3D/Runtime/PipeMeshGenerator.cs
+  uploadId: 532954

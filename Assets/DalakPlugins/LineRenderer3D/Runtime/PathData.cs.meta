@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: c76f5c10dd7747b48aa8ca7e0e85cb1d
+timeCreated: 1623089226
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207731
+  packageName: Line Renderer 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/DalakPlugins/LineRenderer3D/Runtime/PathData.cs
+  uploadId: 532954

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 52539068a82d84a2d8ec0c8eebb4131d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207731
+  packageName: Line Renderer 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/DalakPlugins/LineRenderer3D/Examples/Example1/SimpleExamples.unity
+  uploadId: 532954
